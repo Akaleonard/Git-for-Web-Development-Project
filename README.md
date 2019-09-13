@@ -4,7 +4,7 @@ In this project you will be using the concepts learned in the Git for Web Develo
 This project consists of two parts:
 
 ## Part One:
-You will need to follow the Lambda School Git Workflow to add a file to this project follow the steps below:
+You will need to follow the Lambda School Git Workflow to add a file to this project follow the steps below: Here
 
 - [ ] Create your own version of this repo - Fork
 - [ ] Add your TL as a collaborator
